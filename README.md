@@ -1,1 +1,6 @@
-# Cardio-Array-Day2
+# Cardio-Array-
+
+functions for finding data within arrays.
+
+- HTML5
+- JavaScript
